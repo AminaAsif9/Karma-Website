@@ -1,0 +1,25 @@
+.navbar-dark{
+    background-color: rgb(1, 8, 81);
+}
+.jumbotron{
+    background-color: rgba(4, 14, 118, 0.756);
+}
+body{
+    margin-top: 90px;
+}
+.main{
+    position: relative;
+}
+.main_txt{
+    position: absolute;
+    top: -294px;
+    left: -97px;
+}
+.logoout{
+position: relative;
+}
+.logo{
+    position: absolute;
+    top: -55px;
+    left: -65px;
+}
